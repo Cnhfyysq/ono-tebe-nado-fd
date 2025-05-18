@@ -173,8 +173,8 @@
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
   background-position: -115px;
+  background-size: cover;
 }
 
 .card_type_book {
